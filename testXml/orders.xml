@@ -1,0 +1,2803 @@
+<?xml version="1.0"?>
+<Orders>
+	<order>
+		<id>order0-2004</id>
+		<stock>Company Z</stock>
+		<amount>190</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-24T15:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order1-2004</id>
+		<stock>Company Z</stock>
+		<amount>19640</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-24T16:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order2-2004</id>
+		<stock>Company A</stock>
+		<amount>75620</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-24T17:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order3-2004</id>
+		<stock>Company Y</stock>
+		<amount>3880</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-24T18:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order4-2004</id>
+		<stock>Company A</stock>
+		<amount>96540</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-24T19:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order5-2004</id>
+		<stock>Company Y</stock>
+		<amount>17950</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-24T20:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order6-2004</id>
+		<stock>Company A</stock>
+		<amount>56520</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-24T21:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order7-2004</id>
+		<stock>Company Y</stock>
+		<amount>79160</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-24T22:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order8-2004</id>
+		<stock>Company B</stock>
+		<amount>8930</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-24T23:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order9-2004</id>
+		<stock>Company B</stock>
+		<amount>4730</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-25T00:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order10-2004</id>
+		<stock>Company B</stock>
+		<amount>43050</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-25T01:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order11-2004</id>
+		<stock>Company X</stock>
+		<amount>83150</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-25T02:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order12-2004</id>
+		<stock>Company X</stock>
+		<amount>98610</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-25T03:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order13-2004</id>
+		<stock>Company X</stock>
+		<amount>99040</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-25T04:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order14-2004</id>
+		<stock>Company A</stock>
+		<amount>35850</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-25T05:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order15-2004</id>
+		<stock>Company Z</stock>
+		<amount>26680</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-25T06:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order16-2004</id>
+		<stock>Company X</stock>
+		<amount>76720</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-25T07:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order17-2004</id>
+		<stock>Company Z</stock>
+		<amount>11240</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-25T08:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order18-2004</id>
+		<stock>Company A</stock>
+		<amount>64810</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-25T09:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order19-2004</id>
+		<stock>Company A</stock>
+		<amount>24890</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-25T10:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order20-2004</id>
+		<stock>Company Y</stock>
+		<amount>46330</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-25T11:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order21-2004</id>
+		<stock>Company B</stock>
+		<amount>56570</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-25T12:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order22-2004</id>
+		<stock>Company B</stock>
+		<amount>79850</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-25T13:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order23-2004</id>
+		<stock>Company A</stock>
+		<amount>12850</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-25T14:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order24-2004</id>
+		<stock>Company X</stock>
+		<amount>25600</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-25T15:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order25-2004</id>
+		<stock>Company X</stock>
+		<amount>56740</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-25T16:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order26-2004</id>
+		<stock>Company Y</stock>
+		<amount>44940</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-25T17:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order27-2004</id>
+		<stock>Company A</stock>
+		<amount>31780</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-25T18:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order28-2004</id>
+		<stock>Company B</stock>
+		<amount>80450</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-25T19:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order29-2004</id>
+		<stock>Company X</stock>
+		<amount>22760</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-25T20:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order30-2004</id>
+		<stock>Company Y</stock>
+		<amount>29310</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-25T21:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order31-2004</id>
+		<stock>Company B</stock>
+		<amount>29250</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-25T22:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order32-2004</id>
+		<stock>Company A</stock>
+		<amount>22080</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-25T23:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order33-2004</id>
+		<stock>Company C</stock>
+		<amount>39410</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-26T00:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order34-2004</id>
+		<stock>Company Z</stock>
+		<amount>59540</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-26T01:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order35-2004</id>
+		<stock>Company B</stock>
+		<amount>23710</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-26T02:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order36-2004</id>
+		<stock>Company C</stock>
+		<amount>38230</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-26T03:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order37-2004</id>
+		<stock>Company A</stock>
+		<amount>37560</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-26T04:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order38-2004</id>
+		<stock>Company Y</stock>
+		<amount>82630</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-26T05:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order39-2004</id>
+		<stock>Company C</stock>
+		<amount>61670</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-26T06:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order40-2004</id>
+		<stock>Company X</stock>
+		<amount>77690</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-26T07:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order41-2004</id>
+		<stock>Company Z</stock>
+		<amount>2610</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-26T08:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order42-2004</id>
+		<stock>Company Z</stock>
+		<amount>63560</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-26T09:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order43-2004</id>
+		<stock>Company X</stock>
+		<amount>29310</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-26T10:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order44-2004</id>
+		<stock>Company X</stock>
+		<amount>61270</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-26T11:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order45-2004</id>
+		<stock>Company Z</stock>
+		<amount>52730</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-26T12:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order46-2004</id>
+		<stock>Company X</stock>
+		<amount>40790</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-26T13:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order47-2004</id>
+		<stock>Company B</stock>
+		<amount>5430</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-26T14:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order48-2004</id>
+		<stock>Company X</stock>
+		<amount>53210</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-26T15:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order49-2004</id>
+		<stock>Company Z</stock>
+		<amount>33050</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-26T16:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order50-2004</id>
+		<stock>Company B</stock>
+		<amount>82390</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-26T17:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order51-2004</id>
+		<stock>Company A</stock>
+		<amount>35220</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-26T18:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order52-2004</id>
+		<stock>Company C</stock>
+		<amount>71500</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-26T19:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order53-2004</id>
+		<stock>Company B</stock>
+		<amount>31820</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-26T20:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order54-2004</id>
+		<stock>Company B</stock>
+		<amount>98230</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-26T21:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order55-2004</id>
+		<stock>Company C</stock>
+		<amount>37710</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-26T22:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order56-2004</id>
+		<stock>Company C</stock>
+		<amount>31250</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-26T23:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order57-2004</id>
+		<stock>Company A</stock>
+		<amount>64060</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-27T00:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order58-2004</id>
+		<stock>Company B</stock>
+		<amount>980</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-27T01:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order59-2004</id>
+		<stock>Company Z</stock>
+		<amount>45000</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-27T02:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order60-2004</id>
+		<stock>Company A</stock>
+		<amount>68960</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-27T03:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order61-2004</id>
+		<stock>Company Z</stock>
+		<amount>53970</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-27T04:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order62-2004</id>
+		<stock>Company A</stock>
+		<amount>28290</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-27T05:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order63-2004</id>
+		<stock>Company X</stock>
+		<amount>72270</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-27T06:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order64-2004</id>
+		<stock>Company Z</stock>
+		<amount>36800</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-27T07:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order65-2004</id>
+		<stock>Company Z</stock>
+		<amount>89410</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-27T08:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order66-2004</id>
+		<stock>Company B</stock>
+		<amount>77070</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-27T09:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order67-2004</id>
+		<stock>Company A</stock>
+		<amount>65810</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-27T10:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order68-2004</id>
+		<stock>Company A</stock>
+		<amount>61390</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-27T11:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order69-2004</id>
+		<stock>Company B</stock>
+		<amount>64990</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-27T12:20:14</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order70-2004</id>
+		<stock>Company A</stock>
+		<amount>46900</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-27T13:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order71-2004</id>
+		<stock>Company A</stock>
+		<amount>54160</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-27T14:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order72-2004</id>
+		<stock>Company X</stock>
+		<amount>41460</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-27T15:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order73-2004</id>
+		<stock>Company A</stock>
+		<amount>30800</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-27T16:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order74-2004</id>
+		<stock>Company Y</stock>
+		<amount>93070</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-27T17:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order75-2004</id>
+		<stock>Company C</stock>
+		<amount>74520</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-27T18:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order76-2004</id>
+		<stock>Company Z</stock>
+		<amount>99590</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-27T19:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order77-2004</id>
+		<stock>Company Z</stock>
+		<amount>37690</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-27T20:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order78-2004</id>
+		<stock>Company Z</stock>
+		<amount>87430</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-27T21:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order79-2004</id>
+		<stock>Company B</stock>
+		<amount>51750</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-27T22:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order80-2004</id>
+		<stock>Company Y</stock>
+		<amount>30</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-27T23:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order81-2004</id>
+		<stock>Company B</stock>
+		<amount>80440</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-28T00:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order82-2004</id>
+		<stock>Company A</stock>
+		<amount>3100</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-28T01:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order83-2004</id>
+		<stock>Company A</stock>
+		<amount>51630</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-28T02:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order84-2004</id>
+		<stock>Company B</stock>
+		<amount>49880</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-28T03:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order85-2004</id>
+		<stock>Company Y</stock>
+		<amount>35990</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-28T04:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order86-2004</id>
+		<stock>Company X</stock>
+		<amount>13060</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-28T05:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order87-2004</id>
+		<stock>Company B</stock>
+		<amount>19730</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-28T06:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order88-2004</id>
+		<stock>Company A</stock>
+		<amount>43810</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-28T07:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order89-2004</id>
+		<stock>Company Y</stock>
+		<amount>77670</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-28T08:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order90-2004</id>
+		<stock>Company Y</stock>
+		<amount>91200</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-28T09:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order91-2004</id>
+		<stock>Company Z</stock>
+		<amount>1080</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-28T10:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order92-2004</id>
+		<stock>Company Y</stock>
+		<amount>720</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-28T11:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order93-2004</id>
+		<stock>Company Y</stock>
+		<amount>10020</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-28T12:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order94-2004</id>
+		<stock>Company Z</stock>
+		<amount>12230</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-28T13:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order95-2004</id>
+		<stock>Company A</stock>
+		<amount>30030</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-28T14:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order96-2004</id>
+		<stock>Company A</stock>
+		<amount>54220</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-28T15:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order97-2004</id>
+		<stock>Company X</stock>
+		<amount>76810</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-28T16:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order98-2004</id>
+		<stock>Company A</stock>
+		<amount>62900</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-28T17:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order99-2004</id>
+		<stock>Company X</stock>
+		<amount>94120</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-28T18:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order100-2004</id>
+		<stock>Company B</stock>
+		<amount>37190</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-28T19:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order101-2004</id>
+		<stock>Company Z</stock>
+		<amount>96860</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-28T20:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order102-2004</id>
+		<stock>Company Z</stock>
+		<amount>45120</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-28T21:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order103-2004</id>
+		<stock>Company A</stock>
+		<amount>19150</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-28T22:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order104-2004</id>
+		<stock>Company B</stock>
+		<amount>13480</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-28T23:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order105-2004</id>
+		<stock>Company Y</stock>
+		<amount>52140</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-29T00:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order106-2004</id>
+		<stock>Company A</stock>
+		<amount>6590</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-29T01:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order107-2004</id>
+		<stock>Company B</stock>
+		<amount>49630</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-29T02:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order108-2004</id>
+		<stock>Company Y</stock>
+		<amount>72890</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-29T03:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order109-2004</id>
+		<stock>Company A</stock>
+		<amount>60270</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-29T04:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order110-2004</id>
+		<stock>Company Z</stock>
+		<amount>88860</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-29T05:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order111-2004</id>
+		<stock>Company X</stock>
+		<amount>86560</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-29T06:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order112-2004</id>
+		<stock>Company Z</stock>
+		<amount>60640</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-29T07:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order113-2004</id>
+		<stock>Company A</stock>
+		<amount>90330</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-29T08:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order114-2004</id>
+		<stock>Company A</stock>
+		<amount>40960</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-29T09:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order115-2004</id>
+		<stock>Company C</stock>
+		<amount>20490</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-29T10:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order116-2004</id>
+		<stock>Company X</stock>
+		<amount>16000</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-29T11:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order117-2004</id>
+		<stock>Company A</stock>
+		<amount>17540</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-29T12:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order118-2004</id>
+		<stock>Company A</stock>
+		<amount>93580</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-29T13:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order119-2004</id>
+		<stock>Company A</stock>
+		<amount>28160</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-29T14:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order120-2004</id>
+		<stock>Company Z</stock>
+		<amount>72680</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-29T15:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order121-2004</id>
+		<stock>Company Z</stock>
+		<amount>71920</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-29T16:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order122-2004</id>
+		<stock>Company A</stock>
+		<amount>85490</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-29T17:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order123-2004</id>
+		<stock>Company Y</stock>
+		<amount>37120</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-29T18:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order124-2004</id>
+		<stock>Company C</stock>
+		<amount>50080</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-29T19:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order125-2004</id>
+		<stock>Company A</stock>
+		<amount>32630</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-29T20:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order126-2004</id>
+		<stock>Company Y</stock>
+		<amount>34690</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-29T21:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order127-2004</id>
+		<stock>Company B</stock>
+		<amount>91150</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-29T22:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order128-2004</id>
+		<stock>Company A</stock>
+		<amount>95420</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-29T23:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order129-2004</id>
+		<stock>Company C</stock>
+		<amount>95650</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-30T00:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order130-2004</id>
+		<stock>Company A</stock>
+		<amount>37300</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-30T01:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order131-2004</id>
+		<stock>Company Y</stock>
+		<amount>22070</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-30T02:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order132-2004</id>
+		<stock>Company Y</stock>
+		<amount>11980</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-30T03:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order133-2004</id>
+		<stock>Company Y</stock>
+		<amount>80480</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-30T04:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order134-2004</id>
+		<stock>Company Z</stock>
+		<amount>52930</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-30T05:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order135-2004</id>
+		<stock>Company Z</stock>
+		<amount>58520</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-30T06:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order136-2004</id>
+		<stock>Company Z</stock>
+		<amount>23790</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-30T07:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order137-2004</id>
+		<stock>Company Z</stock>
+		<amount>43700</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-30T08:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order138-2004</id>
+		<stock>Company Y</stock>
+		<amount>36880</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-30T09:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order139-2004</id>
+		<stock>Company A</stock>
+		<amount>16190</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-30T10:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order140-2004</id>
+		<stock>Company X</stock>
+		<amount>75220</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-30T11:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order141-2004</id>
+		<stock>Company B</stock>
+		<amount>40910</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-30T12:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order142-2004</id>
+		<stock>Company C</stock>
+		<amount>78310</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-30T13:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order143-2004</id>
+		<stock>Company C</stock>
+		<amount>99570</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-30T14:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order144-2004</id>
+		<stock>Company C</stock>
+		<amount>4450</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-30T15:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order145-2004</id>
+		<stock>Company A</stock>
+		<amount>74990</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-30T16:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order146-2004</id>
+		<stock>Company X</stock>
+		<amount>75620</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-30T17:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order147-2004</id>
+		<stock>Company C</stock>
+		<amount>19030</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-30T18:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order148-2004</id>
+		<stock>Company A</stock>
+		<amount>73980</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-30T19:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order149-2004</id>
+		<stock>Company A</stock>
+		<amount>84580</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-30T20:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order150-2004</id>
+		<stock>Company B</stock>
+		<amount>2310</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-30T21:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order151-2004</id>
+		<stock>Company A</stock>
+		<amount>66940</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-30T22:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order152-2004</id>
+		<stock>Company B</stock>
+		<amount>69830</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-09-30T23:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order153-2004</id>
+		<stock>Company A</stock>
+		<amount>79740</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-10-01T00:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order154-2004</id>
+		<stock>Company C</stock>
+		<amount>70850</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-10-01T01:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order155-2004</id>
+		<stock>Company B</stock>
+		<amount>6360</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-10-01T02:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order156-2004</id>
+		<stock>Company X</stock>
+		<amount>20370</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-10-01T03:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order157-2004</id>
+		<stock>Company B</stock>
+		<amount>8330</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-10-01T04:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order158-2004</id>
+		<stock>Company B</stock>
+		<amount>92120</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-10-01T05:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order159-2004</id>
+		<stock>Company Z</stock>
+		<amount>53020</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-10-01T06:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order160-2004</id>
+		<stock>Company C</stock>
+		<amount>41160</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-10-01T07:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order161-2004</id>
+		<stock>Company A</stock>
+		<amount>18850</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-10-01T08:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order162-2004</id>
+		<stock>Company Y</stock>
+		<amount>85210</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-10-01T09:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order163-2004</id>
+		<stock>Company Z</stock>
+		<amount>48150</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-10-01T10:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order164-2004</id>
+		<stock>Company X</stock>
+		<amount>38370</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-10-01T11:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order165-2004</id>
+		<stock>Company Z</stock>
+		<amount>65090</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-10-01T12:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order166-2004</id>
+		<stock>Company B</stock>
+		<amount>4210</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-10-01T13:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order167-2004</id>
+		<stock>Company X</stock>
+		<amount>94460</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-10-01T14:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order168-2004</id>
+		<stock>Company Z</stock>
+		<amount>81800</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-10-01T15:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order169-2004</id>
+		<stock>Company B</stock>
+		<amount>48650</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-10-01T16:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order170-2004</id>
+		<stock>Company A</stock>
+		<amount>14620</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-10-01T17:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order171-2004</id>
+		<stock>Company Z</stock>
+		<amount>56730</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-10-01T18:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order172-2004</id>
+		<stock>Company Y</stock>
+		<amount>77570</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-10-01T19:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order173-2004</id>
+		<stock>Company Y</stock>
+		<amount>73970</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-10-01T20:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order174-2004</id>
+		<stock>Company Z</stock>
+		<amount>72700</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-10-01T21:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order175-2004</id>
+		<stock>Company A</stock>
+		<amount>13960</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-10-01T22:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order176-2004</id>
+		<stock>Company B</stock>
+		<amount>16230</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-10-01T23:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order177-2004</id>
+		<stock>Company Y</stock>
+		<amount>47350</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-10-02T00:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order178-2004</id>
+		<stock>Company Y</stock>
+		<amount>1280</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-10-02T01:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order179-2004</id>
+		<stock>Company B</stock>
+		<amount>13450</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-10-02T02:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order180-2004</id>
+		<stock>Company Z</stock>
+		<amount>90170</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-10-02T03:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order181-2004</id>
+		<stock>Company X</stock>
+		<amount>82510</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-10-02T04:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order182-2004</id>
+		<stock>Company Z</stock>
+		<amount>17780</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-10-02T05:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order183-2004</id>
+		<stock>Company Y</stock>
+		<amount>6120</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-10-02T06:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order184-2004</id>
+		<stock>Company A</stock>
+		<amount>10400</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-10-02T07:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order185-2004</id>
+		<stock>Company B</stock>
+		<amount>29410</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-10-02T08:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order186-2004</id>
+		<stock>Company Y</stock>
+		<amount>47400</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-10-02T09:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order187-2004</id>
+		<stock>Company Z</stock>
+		<amount>94660</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-10-02T10:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order188-2004</id>
+		<stock>Company A</stock>
+		<amount>97780</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-10-02T11:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order189-2004</id>
+		<stock>Company X</stock>
+		<amount>11950</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-10-02T12:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order190-2004</id>
+		<stock>Company Z</stock>
+		<amount>27030</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-10-02T13:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order191-2004</id>
+		<stock>Company Z</stock>
+		<amount>41990</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-10-02T14:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order192-2004</id>
+		<stock>Company X</stock>
+		<amount>5800</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-10-02T15:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order193-2004</id>
+		<stock>Company A</stock>
+		<amount>10360</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-10-02T16:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order194-2004</id>
+		<stock>Company Y</stock>
+		<amount>46890</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-10-02T17:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order195-2004</id>
+		<stock>Company C</stock>
+		<amount>88820</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-10-02T18:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order196-2004</id>
+		<stock>Company B</stock>
+		<amount>47190</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-10-02T19:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order197-2004</id>
+		<stock>Company Y</stock>
+		<amount>24250</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Sell</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-10-02T20:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order198-2004</id>
+		<stock>Company Y</stock>
+		<amount>67730</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-10-02T21:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+	<order>
+		<id>order199-2004</id>
+		<stock>Company B</stock>
+		<amount>97990</amount>
+		<exchange>ex</exchange>
+		<currency>Euro</currency>
+		<destination>France</destination>
+		<action>Buy</action>
+		<securityType>Stock</securityType>
+		<dateTime>2555-10-02T22:20:15</dateTime>
+		<sector>Tech</sector>
+		<status>Pending</status>
+		<reasons>Customer Preferences</reasons>
+	</order>
+</Orders>

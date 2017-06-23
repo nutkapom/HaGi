@@ -22,7 +22,7 @@ class Test_calculate extends PHPUnit_Framework_TestCase{
         '0+0=0' => [0,0,0],
         '0+1=1' => [0,1,1],
         '1+0=0' => [1,0,0],
-        '1+4=3' => [1,4,3]
+        '1+3=3' => [1,4,3]
       ];
 
     }
